@@ -1,1 +1,1 @@
-print("Updated by Laptop 1")
+print("Project initialized")
