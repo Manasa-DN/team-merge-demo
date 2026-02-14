@@ -1,1 +1,1 @@
-print("Project initialized")
+print("Dashboard feature added")
