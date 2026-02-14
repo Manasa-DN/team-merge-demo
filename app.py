@@ -1,2 +1,1 @@
-print("Dashboard feature added")
-print("Dashboard updated by laptop2")
+print("Updated by Laptop 2")
